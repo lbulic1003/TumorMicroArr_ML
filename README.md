@@ -1,6 +1,6 @@
 # Tumor Identification Based on Machine Learning Analysis of Gene Expression
 
-Contributors: Luka Bulić
+Contributor: Luka Bulić
 
 Supervisor: Assoc. prof. Mirjana Domazet-Lošo, PhD
 
