@@ -8,4 +8,4 @@ Tumor Identification Based on Machine Learning Analysis of Gene Expression" was 
 
 Feltes, B.C.; Chandelier, E.B.; Grisci, B.I.; Dorn, M. CuMiDa: An Extensively Curated Microarray Database for Benchmarking and Testing of Machine Learning Approaches in Cancer Research. Journal of Computational Biology, 2019.
 
-The problem was approached through Python programming, using the typical machine learning libraries, such as Pandas, NumPy, MatPlotLib, and SciKit-Learn. The methods and results can be found in the uploaded documentation.
+The problem was approached through Python programming, using the typical machine learning libraries, such as Pandas, XGBoost, and SciKit-Learn. The methods and results can be found in the uploaded documentation.
