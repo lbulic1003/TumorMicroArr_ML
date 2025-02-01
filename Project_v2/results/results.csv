@@ -1,0 +1,7 @@
+,Model,Database,CV accuracy,CV F1,CV ROC-AUC,Test accuracy,Test F1,Test ROC-AUC
+0,RandomForestClassifier,leukemia_type,0.808,0.77,0.967,0.825,0.797,0.956
+1,XGBoostClassifier,leukemia_type,0.91,0.899,0.985,0.86,0.845,0.96
+2,ExtraTreesClassifier,leukemia_type,0.884,0.875,0.98,0.754,0.737,0.961
+3,RandomForestClassifier,brain_type,0.979,0.978,0.991,0.875,0.877,0.911
+4,XGBoostClassifier,brain_type,0.968,0.968,0.999,0.875,0.876,0.972
+5,ExtraTreesClassifier,brain_type,0.967,0.968,1.0,0.875,0.877,0.956
